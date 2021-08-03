@@ -1,2 +1,3 @@
 # gaussian_projection
-Positive&amp; Negative Computation of Gaussian Projection
+
+高斯投影正反算,大地2000坐标系,3度带
